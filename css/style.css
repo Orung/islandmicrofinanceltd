@@ -1516,7 +1516,7 @@ padding-left:0px;
 }
 .team-link{
   background: #590c02;
-  padding: 3px 100px;
+  padding: 3px 77px;
   color: #fff;
   font-weight: 600;
   border: 1px solid #590c02;
@@ -1596,4 +1596,7 @@ padding-left:0px;
 }
 .mt10{
   margin-top: 10px;
+}
+.team-manage img{
+  width:50%
 }
